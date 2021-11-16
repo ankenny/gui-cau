@@ -1,10 +1,7 @@
 const CONFIG = {
     introTitle: 'Ơ kìa',
-    introDesc: `Em là đoá hoa ai bỏ lại,
-    Anh là cỏ dại nơi rừng sâu, 
-    Ngỡ là yêu nàng ngay lần đầu🤭,
-    Nên anh lén look nhìn thật lâu💕.`,
-    btnIntro: 'Em cũng thế',
+    introDesc: `Một mình cũng tốt đấy nhưng hai mình vẫn tốt hơn nhỉ`,
+    btnIntro: ' Vì một nùa đông không lạnh🌚',
     title: 'Giờ anh muốn tỏ tình thì sao nào  😙',
     desc: 'không cần vòng vo tim em không đóng cẩn thận là anh lao vào😉 ',
     btnYes: 'Yêu thế nhờ <33',
