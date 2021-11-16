@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Đừng để anh phải khen, không biết thế nào lại va vào em <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Thật ra em cần 1 ai để yêu , nhưng mà chẳng cần ai ngoài anh',
-    mess: 'Oh!Really,',
-    messDesc: 'Không như cô gái khác vị trí của em là ở trong tim anh.',
-    btnAccept: 'Okiiiii lun <3',
+    mess: 'Anh muốn nói,',
+    messDesc: 'Không như cô gái em luôn là điều đặc biệt trong anh.',
+    btnAccept: 'Nhưng anh là ai ? <3',
     messLink: 'https://www.facebook.com/ankennyy/'
 }
