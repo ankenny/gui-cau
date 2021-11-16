@@ -4,7 +4,7 @@ const CONFIG = {
     Anh là cỏ dại nơi rừng sâu, 
     Bỗng chợt thấy nàng đang đi đâu,
     Nên anh lén look ngay từ đầu💕.`,
-    btnIntro: 'Anh cũng thế',
+    btnIntro: 'Em cũng thế',
     title: 'Giờ anh muốn tỏ tình thì sao nào  😙',
     desc: 'không cần vòng vo tim em không đóng cẩn thận là anh lao vào😉 ',
     btnYes: 'Yêu thế nhờ <33',
