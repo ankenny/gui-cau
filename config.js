@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Xin chào!',
-    introDesc: `Em là đoá hoa ai bỏ lại 
-    Anh là cỏ dại nơi rừng sâu 
-    Bỗng chợt thấy nàng đang đi đâu
-    Nên anh lén look ngay từ đầu`,
+    introDesc: `Em là đoá hoa ai bỏ lại,
+    Anh là cỏ dại nơi rừng sâu, 
+    Bỗng chợt thấy nàng đang đi đâu,
+    Nên anh lén look ngay từ đầu💕.`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
