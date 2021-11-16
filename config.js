@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Thật ra em cần 1 ai để yêu , nhưng mà chẳng cần ai ngoài anh',
     mess: 'Anh muốn nói,',
-    messDesc: 'Không như cô gái em luôn là điều đặc biệt trong anh.',
+    messDesc: 'Không như những cô gái khác em luôn là điều đặc biệt trong anh.',
     btnAccept: 'Nhưng anh là ai ? <3',
     messLink: 'https://www.facebook.com/ankennyy/'
 }
